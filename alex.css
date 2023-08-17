@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(19, 190, 176);
+    background-color: rgb(23, 204, 204);
 
 }
 
@@ -8,6 +8,11 @@ img{
 }
 
 
+.tabela_mae{
+    width: 1500px;
+}
 
-
-
+.tabela1{width: 850px;
+    height: 1200px;}
+.tabela2{width: 850px;
+height: 1200px;}
